@@ -1,0 +1,10 @@
+let name = "dharmendra";
+let age = 11;
+let islearning = true;
+let hobbies = ["cricket","football","coding ghanta"];
+// console.table([age,name,islearning,hobbies]);
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof null);
+console.log(typeof undefined);
+console.log(typeof hobbies);
